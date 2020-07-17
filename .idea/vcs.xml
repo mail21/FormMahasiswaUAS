@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/FormMahasiswaUTS" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Arkademy/ArkademianC2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Arkademy/BungaAllysha" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Arkademy/JavaScript-menu-navigasi" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Arkademy/NandaRiansya" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Arkademy/Ujian-B13k5-A-Botcamp-arkademy-" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Arkademy/Wulandari" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Arkademy/arkademy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Arkademy/nengselviana" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Arkademy/nurlaela-saharani-munajah" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Arkademy/rismajulianti_full_arkademy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ArkademyMail/MailArkademy/Arkademy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/DigimonApp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/GitHub Project/React-Native-ECommerceApp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/GitHub Project/ecommerce-react-native" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/GitHub Project/pizzaql" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/GitHub Project/react-Aplikasi-CRUD-React-Native" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/GitHub Project/react-native-shopping-cart" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/belajar-react" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/buat-react" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/react/digimon-app-react" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/react/pokemon-app" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/react/robofriends" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
