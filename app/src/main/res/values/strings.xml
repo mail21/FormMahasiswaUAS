@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FormMahasiswaUAS</string>
+    <string name="nim">NIM:</string>
+    <string-array name="pilihKelas">
+        <item>--Pilih--</item>
+        <item>06TPLP001</item>
+        <item>06TPLP002</item>
+        <item>06TPLP003</item>
+        <item>06TPLP004</item>
+        <item>06TPLP005</item>
+        <item>06TPLP006</item>
+        <item>06TPLP007</item>
+        <item>06TPLP008</item>
+        <item>06TPLP009</item>
+        <item>06TPLP010</item>
+        <item>06TPLP011</item>
+        <item>06TPLP012</item>
+        <item>06TPLP013</item>
+        <item>06TPLP014</item>
+        <item>06TPLP015</item>
+    </string-array>
+
+    <string-array name="pilihAgama">
+        <item>--Pilih--</item>
+        <item>Islam</item>
+        <item>Katolik</item>
+        <item>Protestan</item>
+        <item>Budha</item>
+        <item>Hindu</item>
+        <item>Konghucu</item>
+    </string-array>
+</resources>
